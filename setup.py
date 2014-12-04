@@ -3,7 +3,7 @@ from distutils.core import setup
 setup(
     name='profile_utils',
     version='',
-    packages=[''],
+    packages=['profile_utils'],
     url='https://github.com/clbarnes/profile_utils',
     license='MIT',
     author='clbarnes',
